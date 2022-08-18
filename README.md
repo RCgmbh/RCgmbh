@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Röthenmund Consulting, Martin's company.
 - 👀 I’m interested in sofware made with 💗.
-- 🌱 I’m currently not learning as much as I should.
 - 💞️ I’m looking to collaborate on the PiLot, my pet project.
 
 <!---
